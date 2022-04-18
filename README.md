@@ -1,10 +1,5 @@
 ## NestJS Authorization
 
-### What we need to do:
-
-- create a user module
--
-
 ### Admin
 
 - GET users / GET by ID
